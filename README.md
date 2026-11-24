@@ -12,32 +12,48 @@ I build web apps, multiplayer game systems, and developer tools for [EPIC RP](ht
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,figma,git&amp;theme=dark" width="440" alt="HTML, CSS, Sass, JavaScript, TypeScript, React, Next.js, Vite, Figma, Git" />
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,cpp,cs,dotnet,kotlin,go,mongodb,postgres&amp;theme=dark" width="440" alt="Node.js, NestJS, Python, C++, C#, .NET, Kotlin, Go, MongoDB, PostgreSQL" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,redis,lua,electron,docker,nginx,cloudflare,aws,githubactions,linux&amp;theme=dark" width="440" alt="Tailwind CSS, Redis, Lua, Electron, Docker, Nginx, Cloudflare, AWS, GitHub Actions, Linux" />
 </p>
 
 <details>
 <summary><strong>Frontend &amp; design</strong></summary>
 
-- HTML, CSS, SCSS, JavaScript, TypeScript
-- React, Next.js, Vite, MobX, Redux Toolkit, Framer Motion
-- Figma, Leaflet, Recharts
+- HTML, CSS, SCSS, Tailwind CSS, PostCSS
+- JavaScript, TypeScript, React, Next.js, React Router
+- MobX, Redux Toolkit, React Redux
+- Figma, Framer Motion, Radix UI, Floating UI, dnd kit, Lucide
+- Leaflet, React Leaflet, Leaflet-Geoman, Recharts
 
 </details>
 
 <details>
-<summary><strong>Backend &amp; real-time</strong></summary>
+<summary><strong>Backend &amp; APIs</strong></summary>
 
 - Node.js, NestJS, Express, AdonisJS
-- Python, FastAPI, Django, Flask
+- Python, FastAPI, Django, Flask, aiohttp
 - Go, Kotlin, C#, .NET
-- WebSockets, Yjs, Hocuspocus
+- Zod, OpenAPI, Swagger UI, REST, JWT
+- Pino, Nodemailer, Node-Cron, Axios
+
+</details>
+
+<details>
+<summary><strong>Real-time, collaboration &amp; integrations</strong></summary>
+
+- WebSockets, Yjs, Hocuspocus, Tiptap, ProseMirror
+- Serwist, service workers, Web Push
+- Discord.js, Discord Rich Presence, Twitch integrations
+- Model Context Protocol (MCP), ExcelJS, React-PDF
 
 </details>
 
 <details>
 <summary><strong>Databases</strong></summary>
 
-- SQL, PostgreSQL
-- MongoDB, Mongoose
+- SQL, PostgreSQL, SQLite, Redis, MongoDB
+- Mongoose, ioredis, SQLAlchemy, psycopg2, asyncpg
+- Entity Framework Core, Npgsql
 
 </details>
 
@@ -45,17 +61,36 @@ I build web apps, multiplayer game systems, and developer tools for [EPIC RP](ht
 <summary><strong>Game development &amp; desktop</strong></summary>
 
 - GTA V, FiveM, RAGE Multiplayer, Lua, C++
-- Chromium Embedded Framework (CEF), FiveM NUI
-- Electron, electron-builder
-- CodeWalker, GTA V asset pipelines and RPF packaging
+- Chromium Embedded Framework (CEF), FiveM NUI, Three.js
+- Electron, electron-builder, Windows Forms, Win32
+- CodeWalker, OpenIV, fivefury, RPF packaging, YDD/YTD assets
+
+</details>
+
+<details>
+<summary><strong>Python &amp; media tooling</strong></summary>
+
+- Pillow, NumPy, PyInstaller
+- Sharp, Streamlink, yt-dlp
+
+</details>
+
+<details>
+<summary><strong>Testing &amp; code quality</strong></summary>
+
+- Playwright, Vitest, Testing Library, Supertest, jsdom
+- Selenium WebDriver, Puppeteer Sharp
+- ESLint, Prettier, Spectral, Madge
 
 </details>
 
 <details>
 <summary><strong>Build &amp; infrastructure</strong></summary>
 
-- Git, GitHub Actions, npm, esbuild
-- Docker, Docker Compose, Nginx, Cloudflare
+- Git, GitHub Actions, npm, pnpm, Yarn
+- Vite, webpack, esbuild, Turborepo
+- Docker, Docker Compose, Nginx, Cloudflare, Linux, PowerShell
+- AWS S3, Amazon CloudFront, Prometheus, Grafana Pyroscope
 
 </details>
 
