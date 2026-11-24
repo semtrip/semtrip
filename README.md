@@ -4,7 +4,13 @@
   <img src="assets/profile-dark.png" alt="semtrip — Web, game systems and developer tools for EPIC RP and GTA V" width="720">
 </picture>
 
-I build web apps, multiplayer game systems, and developer tools for [EPIC RP](https://github.com/epic-gta5). [Telegram](https://t.me/semtrip)
+I build multiplayer game systems, web apps, and developer tools.
+
+## EPIC RP
+
+GTA V roleplay with in-game interfaces, a web platform, and a desktop launcher. I work across gameplay systems, backend services, and tools for building and packaging game content.
+
+[Project website](https://epic-gta.com/) · [GitHub organization](https://github.com/epic-gta5) · [Telegram](https://t.me/semtrip)
 
 ## Tech stack
 
